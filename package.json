@@ -1,13 +1,16 @@
 {
-  "name": "react-todos",
+  "name": "react-starter-kit",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node server"
+    "start": "node server",
+    "webpack-dev-server":"webpack-dev-server",
+    "babel":"babel",
+    "webpack":"webpack"
   },
   "keywords": [],
-  "author": "Michael Cheng <cheng.c.mike@gmail.com> (http://michaelcheng.io)",
+  "author": "Jonarod",
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.4",
