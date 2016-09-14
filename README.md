@@ -3,7 +3,7 @@
 ## Usage
 1. `git clone https://github.com/Jonarod/react-starter-kit.git`
 2. `npm install`
-3. if not already done : npm i -g webpack webpack-dev-server
+3. if not already done : `npm i -g webpack webpack-dev-server`
 4. `webpack-dev-server`
 5. Go to `localhost:8080`
 
