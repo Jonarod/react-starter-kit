@@ -1,7 +1,7 @@
 # React + WebPack + ES6: Starter Kit best practices
 
 ## Usage
-1. `git clone https://github.com/michaelcheng429/react-tutorial-todos`
+1. `git clone https://github.com/Jonarod/react-starter-kit.git`
 2. `npm install`
 3. if not already done : npm i -g webpack webpack-dev-server
 4. `webpack-dev-server`
